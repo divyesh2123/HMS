@@ -304,9 +304,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\JobPortal.Common.csproj",
-      "projectName": "JobPortal.Common",
-      "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\JobPortal.Common.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\HMS.Common.csproj",
+      "projectName": "HMS.Common",
+      "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\HMS.Common.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\obj\\",
       "projectStyle": "PackageReference",

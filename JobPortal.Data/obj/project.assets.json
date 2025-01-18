@@ -1125,7 +1125,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "JobPortal.Common/1.0.0": {
+      "HMS.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1133,10 +1133,10 @@
           "Microsoft.Extensions.FileProviders.Physical": "6.0.0"
         },
         "compile": {
-          "bin/placeholder/JobPortal.Common.dll": {}
+          "bin/placeholder/HMS.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/JobPortal.Common.dll": {}
+          "bin/placeholder/HMS.Common.dll": {}
         }
       }
     }
@@ -2779,15 +2779,15 @@
         "x.pagedlist.mvc.core.nuspec"
       ]
     },
-    "JobPortal.Common/1.0.0": {
+    "HMS.Common/1.0.0": {
       "type": "project",
-      "path": "../JobPortal.Common/JobPortal.Common.csproj",
-      "msbuildProject": "../JobPortal.Common/JobPortal.Common.csproj"
+      "path": "../JobPortal.Common/HMS.Common.csproj",
+      "msbuildProject": "../JobPortal.Common/HMS.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "JobPortal.Common >= 1.0.0",
+      "HMS.Common >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.Abstractions >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
@@ -2805,9 +2805,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Data\\JobPortal.Data.csproj",
-      "projectName": "JobPortal.Data",
-      "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Data\\JobPortal.Data.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Data\\HMS.Data.csproj",
+      "projectName": "HMS.Data",
+      "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Data\\HMS.Data.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -2830,8 +2830,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\JobPortal.Common.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\JobPortal.Common.csproj"
+            "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\HMS.Common.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\HMS.Common.csproj"
             }
           }
         }

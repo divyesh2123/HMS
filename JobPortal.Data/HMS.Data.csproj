@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JobPortal.Common\JobPortal.Common.csproj" />
+    <ProjectReference Include="..\JobPortal.Common\HMS.Common.csproj" />
   </ItemGroup>
 
 </Project>

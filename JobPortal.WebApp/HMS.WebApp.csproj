@@ -353,8 +353,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JobPortal.Common\JobPortal.Common.csproj" />
-    <ProjectReference Include="..\JobPortal.Data\JobPortal.Data.csproj" />
+    <ProjectReference Include="..\JobPortal.Common\HMS.Common.csproj" />
+    <ProjectReference Include="..\JobPortal.Data\HMS.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>

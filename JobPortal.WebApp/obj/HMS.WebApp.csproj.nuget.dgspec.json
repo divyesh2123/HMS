@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\JobPortal.WebApp.csproj": {}
+    "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\HMS.WebApp.csproj": {}
   },
   "projects": {
     "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.Common\\HMS.Common.csproj": {
@@ -186,12 +186,12 @@
         }
       }
     },
-    "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\JobPortal.WebApp.csproj": {
+    "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\HMS.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\JobPortal.WebApp.csproj",
-        "projectName": "JobPortal.WebApp",
-        "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\JobPortal.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\HMS.WebApp.csproj",
+        "projectName": "HMS.WebApp",
+        "projectPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\HMS.WebApp.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lenovo\\Downloads\\job-portal-main\\job-portal-main\\JobPortal.WebApp\\obj\\",
         "projectStyle": "PackageReference",
